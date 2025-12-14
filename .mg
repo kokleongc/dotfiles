@@ -1,5 +1,0 @@
-;
-; ~/.mg
-;
-
-make-backup-files
